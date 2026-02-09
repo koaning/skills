@@ -10,18 +10,13 @@ For more information, check out:
 - [Using skills in Claude](https://support.claude.com/en/articles/12512180-using-skills-in-claude)
 - [skills.sh](https://skills.sh/)
 
-# About This Repository
+## About This Repository
 
 We do our best to keep these skills up to date with the latest version of marimo and the skills specification, but they are not officially supported. Discussions and pull requests are welcome. You can join our [Discord](https://discord.com/invite/QdpFxJWhyt) or [Reddit](https://www.reddit.com/r/marimo_notebook/) to get in touch! 
 
-## Claude Code
-You can register this repository as a Claude Code Plugin marketplace by running the following command in Claude Code:
+## Quickstart
 
-```
-/plugin marketplace add marimo-team/skills
-```
-
-Alternatively you may also use: 
+You can register this repository as a Claude Code Plugin marketplace by running the following command:
 
 ```
 npx skills marimo-team/skills
