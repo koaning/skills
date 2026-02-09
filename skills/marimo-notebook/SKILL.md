@@ -1,3 +1,8 @@
+---
+name: marimo-notebook
+description: Write a marimo notebook in a Python file in the right format.
+---
+
 # Notes for marimo Notebooks
 
 ## Running Marimo Notebooks
